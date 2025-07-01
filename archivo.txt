@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Cambio en main branch
-=======
-Cambio en feature branch
->>>>>>> feature-branch
+¡Hola, DevOps!
