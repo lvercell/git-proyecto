@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-Cambio en main branch
-=======
+Texto final combinado o corregido que yo quiero conservar.
